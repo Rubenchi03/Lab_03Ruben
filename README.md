@@ -1,2 +1,2 @@
-Jefe: Alvaro Gonzalez
-Miembro del equipo: Ruben Navarro
+Jefe: Ruben Navarro
+Miembro del equipo: Alvaro Gonzalez
